@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Ford-Mustang-Landing/static/css/main.b8e88955.css",
+    "main.js": "/Ford-Mustang-Landing/static/js/main.674e01b8.js",
+    "static/media/banner.png": "/Ford-Mustang-Landing/static/media/banner.8b95fb2d6cb911c76e78.png",
+    "static/media/banner-2.png": "/Ford-Mustang-Landing/static/media/banner-2.b50cd826214d23de94e7.png",
+    "static/media/image 5.png": "/Ford-Mustang-Landing/static/media/image 5.c1c6a1499b98e4c18531.png",
+    "static/media/image 4.png": "/Ford-Mustang-Landing/static/media/image 4.047d0328cc828b0e576c.png",
+    "static/media/image 8 (1).png": "/Ford-Mustang-Landing/static/media/image 8 (1).2339bf78fa72db186508.png",
+    "static/media/image 2.png": "/Ford-Mustang-Landing/static/media/image 2.f31bbad1a4c16532072e.png",
+    "static/media/Mustang_2015_(3)_2400x1500.jpg": "/Ford-Mustang-Landing/static/media/Mustang_2015_(3)_2400x1500.42191a156a41348a6570.jpg",
+    "static/media/image 1.png": "/Ford-Mustang-Landing/static/media/image 1.4443de4bdd3f1b7eac97.png",
+    "static/media/par 1.png": "/Ford-Mustang-Landing/static/media/par 1.2d521d30e98e7f71930a.png",
+    "static/media/image 3.png": "/Ford-Mustang-Landing/static/media/image 3.fec2a44022b12bc43980.png",
+    "static/media/image 7.png": "/Ford-Mustang-Landing/static/media/image 7.748c07d85c9d2c31566f.png",
+    "static/media/par 3.jpg": "/Ford-Mustang-Landing/static/media/par 3.d1c40d30e8b5386d141f.jpg",
+    "static/media/par 2.jpg": "/Ford-Mustang-Landing/static/media/par 2.0dc5cd20f85aa1df7d8e.jpg",
+    "static/media/2024-ford-mustang-dark-horse-101-1663269713.png": "/Ford-Mustang-Landing/static/media/2024-ford-mustang-dark-horse-101-1663269713.73c20d8e94251ac841b6.png",
+    "static/media/image 8.jpg": "/Ford-Mustang-Landing/static/media/image 8.43fedefa24fffe27dbf2.jpg",
+    "index.html": "/Ford-Mustang-Landing/index.html",
+    "main.b8e88955.css.map": "/Ford-Mustang-Landing/static/css/main.b8e88955.css.map",
+    "main.674e01b8.js.map": "/Ford-Mustang-Landing/static/js/main.674e01b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e88955.css",
+    "static/js/main.674e01b8.js"
+  ]
+}
